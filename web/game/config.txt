@@ -1,0 +1,4 @@
+Game_name:遇见精灵的某个故事;
+Game_key:1650ed9565f6df8;
+Title_bgm:melodies-op4-2.mp3;
+Title_img:森林1.png;
